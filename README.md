@@ -1,11 +1,11 @@
-# Nome do Seu Projeto
+# CRUD
 
-![Nome do Projeto](link-para-uma-imagem-do-projeto-se-tiver.png)
-_Uma breve descrição visual do seu projeto._
+![Create, Read, Update, Delete](link-para-uma-imagem-do-projeto-se-tiver.png)
+
 
 ## 🚀 Visão Geral
 
-Este repositório contém o código-fonte do **[Nome do Seu Projeto]**. Ele é um [breve resumo do que o projeto faz, exemplo: "sistema CRUD para gerenciamento de produtos", "aplicação web de e-commerce", "API de autenticação de usuários"].
+Este repositório contém o código-fonte do **[CRUD]**. Ele é um [breve resumo do que o projeto faz, exemplo: "sistema CRUD para gerenciamento de produtos", "aplicação web de e-commerce", "API de autenticação de usuários"].
 
 ## ✨ Funcionalidades Principais
 
