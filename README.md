@@ -1,6 +1,6 @@
 # CRUD
 
-![Create, Read, Update, Delete](link-para-uma-imagem-do-projeto-se-tiver.png)
+![Create, Read, Update, Delete](_ngcontent-ng-c3347010282.png)
 
 
 ## 🚀 Visão Geral
