@@ -1,6 +1,6 @@
 # CRUD
 
-![Create, Read, Update, Delete](_ngcontent-ng-c3347010282.png)
+![Create, Read, Update, Delete]
 
 
 ## 🚀 Visão Geral
