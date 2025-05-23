@@ -1,6 +1,6 @@
 # CRUD
 
-![Create, Read, Update, Delete](_public/assets/CRUD.jpeg)
+![Create, Read, Update, Delete](_public)
 
 
 ## 🚀 Visão Geral
