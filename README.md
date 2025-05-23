@@ -1,6 +1,6 @@
 # CRUD
 
-![Create, Read, Update, Delete](_public)
+![Create, Read, Update, Delete]
 
 
 ## 🚀 Visão Geral
